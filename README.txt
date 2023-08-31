@@ -8,7 +8,10 @@ Requirements:
 
 To run this app, inside of the working directory where the package.json is located:
 --------------------------------------------------------------------------------------------
- Open a cmd window and type:
+ Open a cmd window, (to install all the dependencies in the package.json) and type:
+ npm install
+
+ Then when it's done, type to start the server and run the app:
  npm run dev
 
 This project is built using the Vite react-project template.
